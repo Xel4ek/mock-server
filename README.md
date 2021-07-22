@@ -10,7 +10,7 @@ $ npm install
 
 ## Running the app
 
-# watch mode
+# Watch mode
 ```bash 
 $ npm run start:dev
 ```
